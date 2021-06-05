@@ -3,5 +3,6 @@
 ## Version: 2.5.1.0
 ## Author: Bullsei
 ## X-Curse-Project-ID: 491096
+## X-Wago-ID: VBNBJaNx
 
 main.lua
