@@ -1,0 +1,1 @@
+function ShouldKnowUnitHealth() return true end
