@@ -91,5 +91,5 @@ globals = {
 	"tostringall",
 
 	-- everything else
-
+	"ShouldKnowUnitHealth",
 }
