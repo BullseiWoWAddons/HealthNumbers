@@ -92,4 +92,8 @@ globals = {
 
 	-- everything else
 	"ShouldKnowUnitHealth",
+	"TextStatusBar_UpdateTextString",
+	"UnitHealth",
+	"UnitHealthMax",
+	"UnitIsConnected"
 }
