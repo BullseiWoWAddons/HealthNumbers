@@ -1,7 +1,7 @@
 ## Interface: 20501
 ## Interface-BCC: 20501
 ## Title: HealthNumbers
-## Version: 2.5.1.0
+## Version: 2.5.1.1
 ## Author: Bullsei
 ## X-Curse-Project-ID: 491096
 ## X-Wago-ID: VBNBJaNx
